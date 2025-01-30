@@ -5,7 +5,7 @@
 
 ## :bow: 스터디 멤버
 
-| <img src="" width="120" height="120"/> | <img src="" width="120" height="120"> |
+| <img src="https://github.com/user-attachments/assets/a0519443-91d3-4db5-a0a8-9f8a61a8bab8" width="120" height="120"/> | <img src="" width="120" height="120"> |
 | :------------------------------------: | :-----------------------------------: |
 | [신아진](https://github.com/dalsu0222) |     [모광윤](https://github.com/)     |
 
@@ -32,7 +32,7 @@
 
 1. 이 저장소를 `fork` 후, 로컬에서 공부 내용을 정리한다.
 2. 한 목차의 정리가 끝나면 자신의 저장소에 `push` 한다.
-3. [커밋 규칙](https://github.com)을 지켜 커밋한다.
+3. [커밋 규칙](https://github.com/dalsu0222/study-js-deep-dive/blob/main/commit_convention/README.md)을 지켜 커밋한다.
 4. 한 목차마다 원본 저장소에 `PR` 을 올리고, `issue` 를 링크한다.
 5. (optional) 해당 주차의 진행자가 올린 PR을 리뷰한다.
 
