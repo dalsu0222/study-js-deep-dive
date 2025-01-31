@@ -35,9 +35,13 @@
 
 1. 이 저장소를 `fork` 후, 로컬에서 공부 내용을 정리한다.
 2. 한 목차의 정리가 끝나면 자신의 저장소에 `push` 한다.
-3. [커밋 규칙](https://github.com/dalsu0222/study-js-deep-dive/blob/main/commit_convention/README.md)을 지켜 커밋한다.
-4. 한 목차마다 원본 저장소에 `PR` 을 올리고, `issue` 를 링크한다.
-5. (optional) 해당 주차의 진행자가 올린 PR을 리뷰한다.
+
+   2-1. 주차별로 이슈와 브랜치를 생성한다. ex) 이슈 제목 : `1주차 스터디`, 브랜치 이름 : `/week01`
+
+   2-2. 목차별로 pr를 작성한다. 퀴즈 pr는 학습 pr과 별도로 작성한다. ex) `n주차 퀴즈`
+4. [커밋 규칙](https://github.com/dalsu0222/study-js-deep-dive/blob/main/commit_convention/README.md)을 지켜 커밋한다.
+5. 한 목차마다 원본 저장소에 `PR` 을 올리고, `issue` 를 링크한다.
+6. (optional) 해당 주차의 진행자가 올린 PR을 리뷰한다.
 
 ## :pencil2: TODO
 
