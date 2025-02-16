@@ -5,9 +5,9 @@
 
 ## :bow: 스터디 멤버
 
-| <img src="https://github.com/user-attachments/assets/a0519443-91d3-4db5-a0a8-9f8a61a8bab8" width="120" height="120"/> | <img src="" width="120" height="120"> |
-| :------------------------------------: | :-----------------------------------: |
-| [신아진](https://github.com/dalsu0222) |     [모광윤](https://github.com/)     |
+| <img src="https://github.com/user-attachments/assets/a0519443-91d3-4db5-a0a8-9f8a61a8bab8" width="120" height="120"/> | <img src="" width="120" height="120"> |  <img src="https://avatars.githubusercontent.com/u/63947262?v=4" width="120" height="120"/> |
+| :------------------------------------: | :-----------------------------------: | :-----------------------------------: |
+| [신아진](https://github.com/dalsu0222) |     [모광윤](https://github.com/)     |  [강승구](https://github.com/luna156) |
 
 
 ## :clock1: 스터디 시간
@@ -52,7 +52,7 @@
 | 1주차  | 모광윤 | 4 5 6 7 8              | All       |
 | 2주차  | 신아진 | 9 10 11                | All       |
 | 3주차  | 모광윤 | 9(9.4~) 10 11          | All       |
-| 4주차  | 신아진 | 12 13                  | All       |
+| 4주차  | 강승구 | 12 13                  | All       |
 | 5주차  | 모광윤 | 14 15 16               | All       |
 | 6주차  | 신아진 | 17 18                  | All       |
 | 7주차  | 모광윤 | 19                     | All       |
