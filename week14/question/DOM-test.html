@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Button Event Test</title>
+  </head>
+  <body>
+    <button>Click me!</button>
+    <script>
+      const $button = document.querySelector("button");
+
+      const clickFunction1 = () => {
+        console.log("[1]button click");
+      };
+
+      const clickFunction2 = () => {
+        console.log("[2]button click");
+      };
+
+      $button.addEventListener("click", clickFunction1);
+      $button.addEventListener("click", clickFunction2);
+      $button.addEventListener("click", clickFunction1);
+    </script>
+  </body>
+</html>
